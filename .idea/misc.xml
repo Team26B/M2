@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="CheckStyle-IDEA-workspace">
     <option name="configuration">
       <map>
@@ -7,5 +8,7 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> Tejas
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
