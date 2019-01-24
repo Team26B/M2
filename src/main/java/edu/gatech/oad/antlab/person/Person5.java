@@ -30,8 +30,18 @@ public class Person5 {
 	 * @return the modified string
 	 */
 	private String calc(String input) {
-	  //Person 5 put your implementation here
-	  return null;
+		if (input.length() == 0 || input.length() == 1 || input.length() == 2) {
+			return input;
+		}
+
+		StringBuilder str = new StringBuilder();
+		for (int i = 2; i < input.length(); i++) {
+			str.append(input.charAt(i));
+		}
+		str.append(input.charAt(0));
+		str.append(input.charAt(1));
+
+		return str.toString();
 	}
 	
 	/**
