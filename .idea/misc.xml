@@ -2,6 +2,7 @@
 <project version="4">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="CheckStyle-IDEA-workspace">
     <option name="configuration">
       <map>
@@ -14,6 +15,12 @@
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 =======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="10" project-jdk-type="JavaSDK">
+=======
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> 89e7b0527647963598b7a3a43272c53b4ce91c63
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 >>>>>>> 208b2c4840dde1b26e7c484f8fbe3c1680705ad7
