@@ -4,6 +4,7 @@
     <option name="configuration">
       <map>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="active-configuration" value="LOCAL_FILE:/Users/samanthadaugherty/Documents/CS1332/CS1332-checkstyle (1).xml:CS1332" />
         <entry key="checkstyle-version" value="8.14" />
         <entry key="copy-libs" value="false" />
@@ -16,6 +17,14 @@
         <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
         <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
 >>>>>>> Tejas
+=======
+        <entry key="active-configuration" value="LOCAL_FILE:/Users/BrianZhu/Desktop/Georgia Tech/Fall 2018/CS 1332/CS1332-checkstyle.xml:CS 1332" />
+        <entry key="checkstyle-version" value="8.12" />
+        <entry key="copy-libs" value="false" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="location-2" value="LOCAL_FILE:/Users/BrianZhu/Desktop/Georgia Tech/Fall 2018/CS 1332/CS1332-checkstyle.xml:CS 1332" />
+>>>>>>> 208b2c4840dde1b26e7c484f8fbe3c1680705ad7
         <entry key="scan-before-checkin" value="false" />
         <entry key="scanscope" value="JavaOnly" />
         <entry key="suppress-errors" value="false" />
